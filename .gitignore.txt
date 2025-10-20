@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.coverage
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.html
+
+# Model artifacts
+model_artifacts/
