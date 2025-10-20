@@ -49,7 +49,7 @@ pip install -r requirements.txt
 
 ## **📊 实验结果**
 ### **预测准确性**
-![预测值与真实值比较](5_time_series_comparison.png){width=80%}
+![预测值与真实值比较](5_time_series_comparison.png)
 
 ---
 
