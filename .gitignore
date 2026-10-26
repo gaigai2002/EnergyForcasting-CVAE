@@ -19,3 +19,12 @@ dist/
 
 # Model artifacts
 model_artifacts/
+
+# Local editor and generated files
+.DS_Store
+.idea/
+outputs/
+tmp/
+
+# Full merged dataset is generated locally; keep the training slice in Git.
+/data/power_weather.csv
